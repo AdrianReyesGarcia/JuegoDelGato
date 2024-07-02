@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adria\\source\\repos\\Juego del gato\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6914CB-FDAE-4D4C-9F97-50A8FC13D15D}|Juego del gato\\Juego del gato.csproj|c:\\users\\adria\\source\\repos\\juego del gato\\juego del gato\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6914CB-FDAE-4D4C-9F97-50A8FC13D15D}|Juego del gato\\Juego del gato.csproj|solutionrelative:juego del gato\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6914CB-FDAE-4D4C-9F97-50A8FC13D15D}|Juego del gato\\Juego del gato.csproj|C:\\Users\\adria\\source\\repos\\Juego del gato\\juego del gato\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C6914CB-FDAE-4D4C-9F97-50A8FC13D15D}|Juego del gato\\Juego del gato.csproj|solutionrelative:juego del gato\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Juego del gato\\Juego del gato\\Form1.cs",
+              "RelativeDocumentMoniker": "Juego del gato\\Form1.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Juego del gato\\Juego del gato\\Form1.cs",
+              "RelativeToolTip": "Juego del gato\\Form1.cs",
+              "ViewState": "AQIAAO4AAAAAAAAAAAAcwAQBAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T04:38:37.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Juego del gato\\Juego del gato\\Form1.cs",
+              "RelativeDocumentMoniker": "Juego del gato\\Form1.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Juego del gato\\Juego del gato\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Juego del gato\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T04:27:59.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

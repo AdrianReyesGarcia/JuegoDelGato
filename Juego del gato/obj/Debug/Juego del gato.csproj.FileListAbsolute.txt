@@ -1,0 +1,10 @@
+C:\Users\adria\source\repos\Juego del gato\Juego del gato\bin\Debug\Juego del gato.exe.config
+C:\Users\adria\source\repos\Juego del gato\Juego del gato\bin\Debug\Juego del gato.exe
+C:\Users\adria\source\repos\Juego del gato\Juego del gato\bin\Debug\Juego del gato.pdb
+C:\Users\adria\source\repos\Juego del gato\Juego del gato\obj\Debug\Juego del gato.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\Juego del gato\Juego del gato\obj\Debug\Juego_del_gato.Form1.resources
+C:\Users\adria\source\repos\Juego del gato\Juego del gato\obj\Debug\Juego_del_gato.Properties.Resources.resources
+C:\Users\adria\source\repos\Juego del gato\Juego del gato\obj\Debug\Juego del gato.csproj.GenerateResource.cache
+C:\Users\adria\source\repos\Juego del gato\Juego del gato\obj\Debug\Juego del gato.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\Juego del gato\Juego del gato\obj\Debug\Juego del gato.exe
+C:\Users\adria\source\repos\Juego del gato\Juego del gato\obj\Debug\Juego del gato.pdb
